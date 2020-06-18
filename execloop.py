@@ -1,7 +1,7 @@
 """
     This script executes an arbitrary command line using
     information from an external file. It can be used
-    in a variaty of situations with small modifications.
+    in a variety of situations with small modifications.
 
     Author: Renato Montenegro Rustici
 """

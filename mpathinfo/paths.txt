@@ -1,0 +1,12 @@
+mpathb (3600140533ef6f79ccfc4a91badd6d475) dm-3 LIO-ORG ,disco02
+size=7.0G features='0' hwhandler='0' wp=rw
+|-+- policy='service-time 0' prio=1 status=active
+| `- 5:0:0:0 sdd 8:48 active ready running
+`-+- policy='service-time 0' prio=1 status=enabled
+  `- 6:0:0:0 sde 8:64 active ready running
+mpatha (36001405510852b3ea964bf3a31f5f79b) dm-2 LIO-ORG ,disco01
+size=5.0G features='0' hwhandler='0' wp=rw
+|-+- policy='service-time 0' prio=1 status=active
+| `- 4:0:0:0 sdc 8:32 active ready running
+`-+- policy='service-time 0' prio=1 status=enabled
+  `- 3:0:0:0 sdb 8:16 active ready running
